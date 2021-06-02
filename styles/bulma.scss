@@ -1,0 +1,22 @@
+// @import url("https://unpkg.com/bulmaswatch/darkly/bulmaswatch.min.css");
+// @import url("https://unpkg.com/bulmaswatch/default/bulmaswatch.min.css");
+
+// $box: purple;
+// $radius-large: 10px;
+
+// $primary: purple;
+
+$navbar-item-img-max-height: 3rem;
+
+@import "../node_modules/bulmaswatch/default/bulmaswatch.scss";
+// @import "../node_modules/bulma-prefers-dark/bulma-prefers-dark.sass";
+
+//fix problem where if an svg is in a button and you click on the svg, it doesn't return the proper event.
+button > * {
+    pointer-events: none;
+}
+
+
+// .fighter-bio {
+//     margin:  100px 100px 100px 100px;
+// }
