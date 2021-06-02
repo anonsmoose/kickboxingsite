@@ -1,34 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Kicksio
 
-## Getting Started
+## Introduction
 
-First, run the development server:
+Kicksio is meant to the home of Kickboxing records. Recordkeeping is something that many more mainstream sports take for granted, but is something that kickfighting sports lack. The community has relied on Wikipedia as a crutch, but this has many problems. First, Wikipedia has a notorious notability criteria, under which most kickboxers are excluded. Second, the criteria for notable kickboxers doesn't allow for any nuance, for instance, fighters with "world" titles in Muay Thai are seen as more notable than Lumpinee/Rajadamnern champions. The goal of the website is to be the kickboxing equivalent of Boxrec or Tapology.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### An example of the homepage
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+![](https://portfolio.doomer.gq/portfolio/kicksio/homePage.png)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+### An example of the rankings page
+![](https://portfolio.doomer.gq/portfolio/kicksio/rankings.png)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+For more information, check out the post on my portfolio site: [https://portfolio.doomer.gq/portfolio/kicksio/](https://portfolio.doomer.gq/portfolio/kicksio/). If you'd like to check out the website, you can go to the following URL: [https://portfolio.doomer.gq/portfolio/kicksio/](https://kicksio.com).
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
